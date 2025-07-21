@@ -1,0 +1,10 @@
+name: Jarvis Assistant
+version: "1.0"
+slug: jarvis_assistant
+description: Custom AI Assistant for Home Assistant
+startup: services
+boot: auto
+ingress: false
+host_network: true
+options: {}
+schema: {}
